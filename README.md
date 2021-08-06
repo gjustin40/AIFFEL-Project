@@ -1,8 +1,10 @@
 # AIFFEL-Project
 AIFFEL 훈련동안 과제 및 프로젝트
 
-### 미니 프로젝트
 <hr>
+
+### 미니 프로젝트
+
 
 Contents|Title|TensorFlow2|PyTorch|ML
 --------|--------|:-------:|:----------:|:-------:
@@ -20,4 +22,9 @@ kaggle|집값 예측 대회|||[ML](https://github.com/gjustin40/AIFFEL-Project/b
 Sentiment Analysis|IMDB 영화리뷰 감성분석|[TensorFlow2]|[Pytorch]
 Sentiment Analysis|Naver 영화리뷰 감성분석|[TensorFlow2]|[Pytorch]
 
+<hr>
 
+### 해커톤
+Contents|Title|TensorFlow2|PyTorch|ML
+--------|--------|:-------:|:----------:|:-------:
+Kaggle |식당 방문자 예측|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/HACKATHON1/HACKATHON1-Recruit_Restaurant_%20Visitor_Forecastin.ipynb)
