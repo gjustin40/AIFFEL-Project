@@ -1,2 +1,6 @@
 
 *.jpg
+*.csv
+*.pt
+*.zip
+*.pkl
