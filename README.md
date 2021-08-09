@@ -27,4 +27,4 @@ Sentiment Analysis|Naver 영화리뷰 감성분석|[TensorFlow2]|[Pytorch]
 ### 해커톤
 Contents|Title|TensorFlow2|PyTorch|ML
 --------|--------|:-------:|:----------:|:-------:
-Kaggle |식당 방문자 예측|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/HACKATHON1/HACKATHON1-Recruit_Restaurant_%20Visitor_Forecastin.ipynb)
+Kaggle |식당 방문자 예측|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/HACKATHON/HACKATHON1/HACKATHON1-Recruit_Restaurant_Visitor_Forecastin.ipynb)
