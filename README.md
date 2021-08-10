@@ -19,8 +19,8 @@ Text Generation|노래 가사 생성|[TensorFlow2](https://github.com/gjustin40/
 Face Embedding|dlib 얼굴 임베딩|||[ML]
 Face Embedding|닮은 연예인 찾기|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project05/Node-Project5-Celebrity_Similarity.ipynb)
 kaggle|집값 예측 대회|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project06/Node-Project6-Kaggle_House_Price_Prediction.ipynb)
-Sentiment Analysis|IMDB 영화리뷰 감성분석|[https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/practice/Node-Project07-IMDb_Moive_Review_SentimentAnalysis.ipynb]|[Pytorch]
-Sentiment Analysis|Naver 영화리뷰 감성분석|[https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/Node-Project07-Naver_MoiveReview_SentimentAnalysis.ipynb]|[Pytorch]
+Sentiment Analysis|IMDB 영화리뷰 감성분석|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/practice/Node-Project07-IMDb_Moive_Review_SentimentAnalysis.ipynb)|[Pytorch]
+Sentiment Analysis|Naver 영화리뷰 감성분석|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/Node-Project07-Naver_MoiveReview_SentimentAnalysis.ipynb)|[Pytorch]
 
 <hr>
 
