@@ -6,7 +6,7 @@ AIFFEL 훈련동안 과제 및 프로젝트
 ### 미니 프로젝트
 
 
-Contents|Title|TensorFlow2|PyTorch|ML|비고
+Contents|Title|TensorFlow2|PyTorch|ML|Level
 --------|--------|:-------:|:----------:|:-------:|:--------:|
 Image Classificaiton|MNIST 손글씨 분류|[TensorFlow2]|[Pytorch]||연습
 Image Classificaiton|가위바위보 분류|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project01/Node-Project1-Rock_Scissor_Paper.ipynb)|[Pytorch]||
@@ -21,6 +21,8 @@ Face Embedding|닮은 연예인 찾기|||[ML](https://github.com/gjustin40/AIFFE
 kaggle|집값 예측 대회|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project06/Node-Project6-Kaggle_House_Price_Prediction.ipynb)|
 Sentiment Analysis|IMDB 영화리뷰 감성분석|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/practice/Node-Project07-IMDb_Moive_Review_SentimentAnalysis.ipynb)|[Pytorch]||연습
 Sentiment Analysis|Naver 영화리뷰 감성분석|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/Node-Project07-Naver_MoiveReview_SentimentAnalysis.ipynb)|[Pytorch]||
+Image Segmentation |인물사진 Focusing|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project08/Node-Project08-Shollow_Focus.ipynb)|[Pytorch]||
+
 
 <hr>
 
