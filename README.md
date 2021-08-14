@@ -8,7 +8,7 @@ AIFFEL 훈련동안 과제 및 프로젝트
 
 Contents|Title|TensorFlow2|PyTorch|ML|Level
 --------|--------|:-------:|:----------:|:-------:|:--------:|
-Image Classificaiton|MNIST 손글씨 분류|[TensorFlow2]|[Pytorch]||연습
+Image Classificaiton|MNIST 손글씨 분류|[TensorFlow2]|[Pytorch]([https://github.com/gjustin40/Pytorch-Cookbook/blob/master/Beginner/Pytorch5_1_CNN_Classifier_MNSIT.ipynb)||연습
 Image Classificaiton|가위바위보 분류|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project01/Node-Project1-Rock_Scissor_Paper.ipynb)|[Pytorch]||
 Classification|Iris 품종 분류|||[ML]|연습
 Classification|Toy Datasets 분류|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project02/Node-Project2-Digits_Wine_BreastCancer.ipynb)|
