@@ -22,9 +22,10 @@ kaggle|집값 예측 대회|||[ML](https://github.com/gjustin40/AIFFEL-Project/b
 Sentiment Analysis|IMDB 영화리뷰 감성분석|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/practice/Node-Project07-IMDb_Moive_Review_SentimentAnalysis.ipynb)|[Pytorch]||연습
 Sentiment Analysis|Naver 영화리뷰 감성분석|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project07/Node-Project07-Naver_MoiveReview_SentimentAnalysis.ipynb)|[Pytorch]||
 Image Segmentation |인물사진 Focusing|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project08/Node-Project08-Shollow_Focus.ipynb)|[Pytorch]||
-Recommender System|아티스트 추천(LastFM)|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project09/practice/Node-Project09-Music_Recommander.ipynb)|연습|
-Recommender System|영화 추천(MovieLens)|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project09/Node-Project09-MovieLens_Recommander.ipynb)||
-
+Recommender System|아티스트 추천(LastFM)|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project09/practice/Node-Project09-Music_Recommander.ipynb)|연습
+Recommender System|영화 추천(MovieLens)|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project09/Node-Project09-MovieLens_Recommander.ipynb)|
+Text Summarization|||||
+Medical Image Analysis|폐렴 진단|[Tensorflow](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project11/Node-Project11-Medical_Image_Classification.ipynb)|[pytorch]||
 <hr>
 
 ### 해커톤
