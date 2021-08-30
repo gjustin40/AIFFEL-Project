@@ -24,8 +24,10 @@ Sentiment Analysis|Naver 영화리뷰 감성분석|[TensorFlow2](https://github.
 Image Segmentation |인물사진 Focusing|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project08/Node-Project08-Shollow_Focus.ipynb)|[Pytorch]||
 Recommender System|아티스트 추천(LastFM)|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project09/practice/Node-Project09-Music_Recommander.ipynb)|연습
 Recommender System|영화 추천(MovieLens)|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project09/Node-Project09-MovieLens_Recommander.ipynb)|
-Text Summarization|||||
+Text Summarization|뉴스 요약봇|[Tensorflow](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project10/Node-Project10-News_Summary.ipynb)|[Pytorch]||
 Medical Image Analysis|폐렴 진단|[Tensorflow](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project11/Node-Project11-Medical_Image_Classification.ipynb)|[pytorch]||
+Recommender System|다음 볼 영화 예측|[Tensorflow](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project12/Node-Project12-Movie_Recommendation_SBR.ipynb)|[Pytorch]||
+Image Generation|CIFAR-10 이미지 생성|[Tensorflow](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project13/Node-Project13-CIFAR10_Generative.ipynb)|[Pytorch]||
 <hr>
 
 ### 해커톤
