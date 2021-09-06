@@ -36,4 +36,4 @@ Transformer|한국어 챗봇|[TensorFlow2](https://github.com/gjustin40/AIFFEL-P
 ### 해커톤
 Contents|Title|TensorFlow2|PyTorch|ML
 --------|--------|:-------:|:----------:|:-------:
-Kaggle |식당 방문자 예측|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/HACKATHON/HACKATHON1/HACKATHON1-Recruit_Restaurant_Visitor_Forecastin.ipynb)
+Kaggle |식당 방문자 예측|||[ML](https://github.com/gjustin40/AIFFEL-Project/blob/main/HACKATHON/HACKATHON1/HACKATHON1-Recruit_Restaurant_Visitor_Forecasting.ipynb)
