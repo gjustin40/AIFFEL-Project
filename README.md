@@ -27,6 +27,7 @@ Image Generation|CIFAR-10 이미지 생성|[Tensorflow2](https://github.com/gjus
 Time Series Forecasting|시계열 예측|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project14/Node-Project14-Forecasting_Example.ipynb)]|[Pytorch]||연습
 Time Series Forecasting|시계열 예측(주식)|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/tree/main/Mini-Project/Mini-Project14)|[Pytorch]||
 Transformer|한국어 챗봇|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project15/Node-Project15-Chatbot.ipynb)|||
+Super Resolution|이미지 해상도 복원|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project16/Node-Project16-Super_Resoluition_Project.ipynb)|[Pytorch]||
 <hr>
 
 ### 해커톤
