@@ -24,7 +24,7 @@ Text Summarization|뉴스 요약봇|[Tensorflow2](https://github.com/gjustin40/A
 Medical Image Analysis|폐렴 진단|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project11/Node-Project11-Medical_Image_Classification.ipynb)|[pytorch]||
 Recommender System|다음 볼 영화 예측|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project12/Node-Project12-Movie_Recommendation_SBR.ipynb)|[Pytorch]||
 Image Generation|CIFAR-10 이미지 생성|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project13/Node-Project13-CIFAR10_Generative.ipynb)|[Pytorch]||
-Time Series Forecasting|시계열 예측|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project14/Node-Project14-Forecasting_Example.ipynb)]|[Pytorch]||연습
+Time Series Forecasting|시계열 예측|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project14/Node-Project14-Forecasting_Example.ipynb)|[Pytorch]||연습
 Time Series Forecasting|시계열 예측(주식)|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/tree/main/Mini-Project/Mini-Project14)|[Pytorch]||
 Transformer|한국어 챗봇|[TensorFlow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project15/Node-Project15-Chatbot.ipynb)|||
 Super Resolution|이미지 해상도 복원|[Tensorflow2](https://github.com/gjustin40/AIFFEL-Project/blob/main/Mini-Project/Mini-Project16/Node-Project16-Super_Resoluition_Project.ipynb)|[Pytorch]||
